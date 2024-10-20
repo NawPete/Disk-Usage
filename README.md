@@ -50,4 +50,13 @@ This script is useful for system administrators, DevOps engineers, or anyone who
 
   Total Disk Space: XX.XX GB
   Free Disk Space: YY.YY GB
+  ```
 
+
+## Example Usage
+
+This script can be incorporated into a larger system to monitor disk usage over time or triggered periodically with a cron job. For example:
+
+- **Monitoring Servers**: Integrate it into a monitoring dashboard for tracking server disk usage.
+- **Alerts**: Set up alerts when free disk space drops below a certain threshold.
+- **Automation**: Automate disk space checks as part of your DevOps pipelines to ensure that servers have enough storage to continue running efficiently.
